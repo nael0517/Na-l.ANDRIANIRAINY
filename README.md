@@ -55,6 +55,7 @@ Projet complémentaire consacré à la gestion hôtelière.
   <img src="img/1.png" width="30%" alt="Photo 1">
   <img src="img/2.png" width="30%" alt="Photo 2">
   <img src="img/3.png" width="30%" alt="Photo 3">
+  <img src="img/4.png" width="30%" alt="Photo 4">
 </p>
 
 ### 🌐 Portfolio personnel
