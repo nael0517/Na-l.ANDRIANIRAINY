@@ -18,7 +18,7 @@ J'aime apprendre, résoudre des problèmes et concevoir des solutions informatiq
 
 - 🎓 **Formation :** Licence en développement informatique — 2026
 - 💼 **Expérience :** Stage en développement d'une application de gestion des réservations à l'Hôtel Taleva
-- 🌐 **Portfolio :** [Découvrir mon travail](https://nael0517.github.io/Na-l.ANDRIANIRAINY/)
+                    **Stage au seins SMMC Toamasina
 - 📍 **Localisation :** Toamasina, Madagascar
 - 🎯 **Objectif :** approfondir mes compétences et participer à des projets informatiques concrets
 
@@ -51,19 +51,6 @@ Projet orienté vers la gestion des activités hôtelières et de restauration.
 
 Projet complémentaire consacré à la gestion hôtelière.
 
-<p align="center">
-  <img src="img/1.png" width="30%" alt="Photo 1">
-  <img src="img/2.png" width="30%" alt="Photo 2">
-  <img src="img/3.png" width="30%" alt="Photo 3">
-  <img src="img/4.png" width="30%" alt="Photo 4">
-</p>
-
-### 🌐 Portfolio personnel
-
-Mon site personnel présente mon parcours, mes compétences et mes réalisations.
-
-🔗 [Visiter mon portfolio](https://nael0517.github.io/Na-l.ANDRIANIRAINY/)
-
 ## 💼 Expérience professionnelle
 
 ### Hôtel Taleva — 2025
@@ -72,11 +59,20 @@ Mon site personnel présente mon parcours, mes compétences et mes réalisations
 
 Participation à un projet de développement d'une application de gestion des réservations.
 
+<p align="center">
+  <img src="img/1.png" width="30%" alt="Photo 1">
+  <img src="img/2.png" width="30%" alt="Photo 2">
+  <img src="img/3.png" width="30%" alt="Photo 3">
+  <img src="img/4.png" width="30%" alt="Photo 4">
+</p>
+
+
 ### SMMC, Vohemar — 2024
 
 **Stage professionnel**
 
 Expérience au sein de la SMMC dans le contexte des activités portuaires.
+
 
 ## 📊 Activité GitHub
 
