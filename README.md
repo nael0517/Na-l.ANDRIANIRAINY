@@ -1,5 +1,4 @@
 # Naël Andrianirainy | Développeur informatique 💻
-![Naël Andrianirainy - Développeur informatique](img/....png)
 <p align="center">
   <a href="https://nael0517.github.io/Na-l.ANDRIANIRAINY/">
     <img src="https://img.shields.io/badge/🌐_MON_PORTFOLIO-007ACC?style=for-the-badge" alt="Mon portfolio">
@@ -47,14 +46,16 @@ Projet orienté vers la gestion des activités hôtelières et de restauration.
 
 - Objectif : faciliter la gestion des activités et des informations.
 - Technologies : à préciser selon celles réellement utilisées dans le projet.
-
-🔗 [Consulter le dépôt GitHub](https://github.com/nael0517/Application-de-gestion-H-teli-re-et-restauration)
-
+- 
 ### 🏨 Projet de gestion hôtelière
 
 Projet complémentaire consacré à la gestion hôtelière.
 
-🔗 [Consulter le dépôt GitHub](https://github.com/nael0517/projet_Nael_hotel_1.1)
+<p align="center">
+  <img src="img/1.png" width="30%" alt="Photo 1">
+  <img src="img/2.png" width="30%" alt="Photo 2">
+  <img src="img/3.png" width="30%" alt="Photo 3">
+</p>
 
 ### 🌐 Portfolio personnel
 
