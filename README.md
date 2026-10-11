@@ -67,12 +67,18 @@ Participation à un projet de développement d'une application de gestion des r�
 </p>
 
 
-### SMMC, Vohemar — 2024
+### SMMC, TOAMASINA — 2024
 
 **Stage professionnel**
 
 Expérience au sein de la SMMC dans le contexte des activités portuaires.
 
+<p align="center">
+  <img src="img/SMMC1.png" width="30%" alt="Photo 1">
+  <img src="img/SMMC2.png" width="30%" alt="Photo 2">
+  <img src="img/SMMC3.png" width="30%" alt="Photo 3">
+  <img src="img/SMMC4.png" width="30%" alt="Photo 4">
+</p>
 
 ## 📊 Activité GitHub
 
