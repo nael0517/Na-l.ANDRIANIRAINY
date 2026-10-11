@@ -1,5 +1,5 @@
 # Naël Andrianirainy | Développeur informatique 💻
-!(img/....png)
+![Naël Andrianirainy - Développeur informatique](img/....png)
 <p align="center">
   <a href="https://nael0517.github.io/Na-l.ANDRIANIRAINY/">
     <img src="https://img.shields.io/badge/🌐_MON_PORTFOLIO-007ACC?style=for-the-badge" alt="Mon portfolio">
